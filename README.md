@@ -4,6 +4,10 @@
 
 Commerce · Interfaces · AI · Automation
 
+### My stats
+
+![Serdar's GitHub activity, refreshed daily](assets/profile-stats.svg)
+
 ### Tools & projects
 
 | Collection | A few favorites |

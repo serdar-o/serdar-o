@@ -1,0 +1,47 @@
+name: Refresh profile statistics
+
+on:
+  schedule:
+    - cron: '43 21 * * *'
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/profile-stats.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-stats-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - run: python3 -m unittest discover -s tests -v
+  refresh:
+    if: github.event_name != 'pull_request' && github.repository == 'serdar-o/serdar-o' && github.ref == 'refs/heads/main'
+    needs: verify
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+      - name: Generate aggregate statistics
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/profile_stats.py
+      - name: Publish updated card
+        run: |
+          git add -- assets/profile-stats.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Refresh aggregate profile statistics'
+          git push origin HEAD:main
