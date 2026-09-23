@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title desc">
 <title id="title">Serdar — GitHub activity</title>
-<desc id="desc">152 contributions in the last year, including 149 private contributions. Monthly activity chart and aggregate account statistics. Updated 2026-09-23.</desc>
+<desc id="desc">150 contributions in the last year, including 149 private contributions. Monthly activity chart and aggregate account statistics. Updated 2026-09-23.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif}.muted{fill:#8b949e}.value{fill:#e6edf3}.accent{fill:#58a6ff}</style>
 <rect width="960" height="480" rx="18" fill="#0d1117"/>
 <text x="38" y="49" class="accent" font-size="27" font-weight="600">Serdar</text>
 <text x="38" y="75" class="muted" font-size="13">GITHUB ACTIVITY · LAST 12 MONTHS</text>
-<text x="38" y="144" class="value" font-size="49" font-weight="600">152</text>
+<text x="38" y="144" class="value" font-size="49" font-weight="600">150</text>
 <text x="38" y="172" class="muted" font-size="17">contributions in the last year</text>
 <text x="38" y="209" class="muted" font-size="15">Joined GitHub · Dec 2024</text>
 <text x="430" y="56" class="muted" font-size="13">MONTHLY CONTRIBUTIONS</text>
@@ -15,8 +15,8 @@
 <text x="918" y="161.5" class="muted" font-size="10">46</text>
 <line x1="430" y1="90" x2="910" y2="90" stroke="#21262d"/>
 <text x="918" y="94" class="muted" font-size="10">93</text>
-<polygon points="430,225 430.0,225.0 470.0,225.0 510.0,90.0 550.0,223.5 590.0,204.7 630.0,217.7 670.0,214.8 710.0,225.0 750.0,219.2 790.0,225.0 830.0,217.7 870.0,225.0 910.0,191.6 910.0,225" fill="#1f6feb" opacity="0.22"/>
-<polyline points="430.0,225.0 470.0,225.0 510.0,90.0 550.0,223.5 590.0,204.7 630.0,217.7 670.0,214.8 710.0,225.0 750.0,219.2 790.0,225.0 830.0,217.7 870.0,225.0 910.0,191.6" fill="none" stroke="#58a6ff" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="430,225 430.0,225.0 470.0,225.0 510.0,90.0 550.0,223.5 590.0,204.7 630.0,217.7 670.0,214.8 710.0,225.0 750.0,219.2 790.0,225.0 830.0,217.7 870.0,225.0 910.0,194.5 910.0,225" fill="#1f6feb" opacity="0.22"/>
+<polyline points="430.0,225.0 470.0,225.0 510.0,90.0 550.0,223.5 590.0,204.7 630.0,217.7 670.0,214.8 710.0,225.0 750.0,219.2 790.0,225.0 830.0,217.7 870.0,225.0 910.0,194.5" fill="none" stroke="#58a6ff" stroke-width="3" stroke-linejoin="round"/>
 <text x="430.0" y="248" text-anchor="middle" class="muted" font-size="11">25-09</text>
 <text x="550.0" y="248" text-anchor="middle" class="muted" font-size="11">25-12</text>
 <text x="670.0" y="248" text-anchor="middle" class="muted" font-size="11">26-03</text>
@@ -25,13 +25,13 @@
 <line x1="38" y1="278" x2="922" y2="278" stroke="#30363d"/>
 <text x="38" y="312" class="accent" font-size="19" font-weight="600">Contribution mix</text>
 <circle cx="100" cy="383" r="49" fill="none" stroke="#58a6ff" stroke-width="18"/>
-<circle cx="100" cy="383" r="49" fill="none" stroke="#3fb950" stroke-width="18" stroke-dasharray="301.800 307.876" transform="rotate(-90 100 383)"/>
+<circle cx="100" cy="383" r="49" fill="none" stroke="#3fb950" stroke-width="18" stroke-dasharray="305.824 307.876" transform="rotate(-90 100 383)"/>
 <rect x="176" y="349" width="10" height="10" rx="2" fill="#3fb950"/>
 <text x="197" y="359" class="value" font-size="15">Private · 149</text>
 <rect x="176" y="381" width="10" height="10" rx="2" fill="#58a6ff"/>
-<text x="197" y="391" class="value" font-size="15">Public · 3</text>
+<text x="197" y="391" class="value" font-size="15">Public · 1</text>
 <text x="430" y="326" class="muted" font-size="11">ACTIVE DAYS</text>
-<text x="430" y="356" class="value" font-size="27" font-weight="600">23</text>
+<text x="430" y="356" class="value" font-size="27" font-weight="600">22</text>
 <text x="688" y="326" class="muted" font-size="11">PUBLIC REPOSITORIES</text>
 <text x="688" y="356" class="value" font-size="27" font-weight="600">1</text>
 <text x="430" y="398" class="muted" font-size="11">PROJECTS STARRED</text>
