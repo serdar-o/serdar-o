@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title desc">
+<title id="title">Serdar — GitHub activity</title>
+<desc id="desc">166 contributions in the last year. Monthly activity and a saved snapshot of primary languages across 16 owned, non-fork, unarchived repositories with detected code. Activity refreshes daily; languages refresh separately. No repository names or code are shown.</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif}.muted{fill:#8b949e}.value{fill:#e6edf3}.accent{fill:#58a6ff}</style>
+<rect width="960" height="480" rx="18" fill="#0d1117"/>
+<text x="38" y="49" class="accent" font-size="27" font-weight="600">Serdar</text>
+<text x="38" y="75" class="muted" font-size="13">GITHUB ACTIVITY · LAST 12 MONTHS</text>
+<text x="38" y="144" class="value" font-size="49" font-weight="600">166</text>
+<text x="38" y="172" class="muted" font-size="17">contributions in the last year</text>
+<text x="38" y="209" class="muted" font-size="15">Joined GitHub · Dec 2024</text>
+<text x="430" y="56" class="muted" font-size="13">MONTHLY CONTRIBUTIONS</text>
+<line x1="430" y1="225" x2="910" y2="225" stroke="#21262d"/>
+<text x="918" y="229" class="muted" font-size="10">0</text>
+<line x1="430" y1="157.5" x2="910" y2="157.5" stroke="#21262d"/>
+<text x="918" y="161.5" class="muted" font-size="10">46</text>
+<line x1="430" y1="90" x2="910" y2="90" stroke="#21262d"/>
+<text x="918" y="94" class="muted" font-size="10">93</text>
+<polygon points="430,225 430.0,225.0 470.0,225.0 510.0,90.0 550.0,223.5 590.0,204.7 630.0,217.7 670.0,214.8 710.0,225.0 750.0,219.2 790.0,225.0 830.0,217.7 870.0,225.0 910.0,171.3 910.0,225" fill="#1f6feb" opacity="0.22"/>
+<polyline points="430.0,225.0 470.0,225.0 510.0,90.0 550.0,223.5 590.0,204.7 630.0,217.7 670.0,214.8 710.0,225.0 750.0,219.2 790.0,225.0 830.0,217.7 870.0,225.0 910.0,171.3" fill="none" stroke="#58a6ff" stroke-width="3" stroke-linejoin="round"/>
+<text x="430.0" y="248" text-anchor="middle" class="muted" font-size="11">25-09</text>
+<text x="550.0" y="248" text-anchor="middle" class="muted" font-size="11">25-12</text>
+<text x="670.0" y="248" text-anchor="middle" class="muted" font-size="11">26-03</text>
+<text x="790.0" y="248" text-anchor="middle" class="muted" font-size="11">26-06</text>
+<text x="910.0" y="248" text-anchor="middle" class="muted" font-size="11">26-09</text>
+<line x1="38" y1="278" x2="922" y2="278" stroke="#30363d"/>
+<text x="38" y="312" class="accent" font-size="19" font-weight="600">Languages by project</text>
+<text x="38" y="330" class="muted" font-size="10">PRIMARY LANGUAGE · PUBLIC + PRIVATE</text>
+<circle cx="100" cy="391" r="46" fill="none" stroke="#FB923C" stroke-width="18" stroke-dasharray="106.3849 182.6416" stroke-dashoffset="-1.0000" transform="rotate(-90 100 391)"/>
+<rect x="176" y="343" width="10" height="10" rx="2" fill="#FB923C"/>
+<text x="195" y="352" class="value" font-size="13">Python</text>
+<text x="365" y="352" text-anchor="end" class="muted" font-size="12">37.5%</text>
+<circle cx="100" cy="391" r="46" fill="none" stroke="#60A5FA" stroke-width="18" stroke-dasharray="88.3208 200.7057" stroke-dashoffset="-109.3849" transform="rotate(-90 100 391)"/>
+<rect x="176" y="363" width="10" height="10" rx="2" fill="#60A5FA"/>
+<text x="195" y="372" class="value" font-size="13">TypeScript</text>
+<text x="365" y="372" text-anchor="end" class="muted" font-size="12">31.2%</text>
+<circle cx="100" cy="391" r="46" fill="none" stroke="#C084FC" stroke-width="18" stroke-dasharray="52.1925 236.8341" stroke-dashoffset="-199.7057" transform="rotate(-90 100 391)"/>
+<rect x="176" y="383" width="10" height="10" rx="2" fill="#C084FC"/>
+<text x="195" y="392" class="value" font-size="13">PHP</text>
+<text x="365" y="392" text-anchor="end" class="muted" font-size="12">18.8%</text>
+<circle cx="100" cy="391" r="46" fill="none" stroke="#FDE047" stroke-width="18" stroke-dasharray="16.6190 272.4075" stroke-dashoffset="-253.6208" transform="rotate(-90 100 391)"/>
+<rect x="176" y="403" width="10" height="10" rx="2" fill="#FDE047"/>
+<text x="195" y="412" class="value" font-size="13">JavaScript</text>
+<text x="365" y="412" text-anchor="end" class="muted" font-size="12">6.2%</text>
+<circle cx="100" cy="391" r="46" fill="none" stroke="#2DD4BF" stroke-width="18" stroke-dasharray="16.6190 272.4075" stroke-dashoffset="-271.6849" transform="rotate(-90 100 391)"/>
+<rect x="176" y="423" width="10" height="10" rx="2" fill="#2DD4BF"/>
+<text x="195" y="432" class="value" font-size="13">Perl</text>
+<text x="365" y="432" text-anchor="end" class="muted" font-size="12">6.2%</text>
+<text x="430" y="326" class="muted" font-size="11">ACTIVE DAYS</text>
+<text x="430" y="356" class="value" font-size="27" font-weight="600">23</text>
+<text x="688" y="326" class="muted" font-size="11">PUBLIC REPOSITORIES</text>
+<text x="688" y="356" class="value" font-size="27" font-weight="600">1</text>
+<text x="430" y="398" class="muted" font-size="11">PROJECTS STARRED</text>
+<text x="430" y="428" class="value" font-size="27" font-weight="600">26</text>
+<text x="688" y="398" class="muted" font-size="11">FOLLOWERS</text>
+<text x="688" y="428" class="value" font-size="27" font-weight="600">1</text>
+<text x="38" y="465" class="muted" font-size="11">Updated 2026-09-24 UTC · Source: GitHub</text>
+</svg>
